@@ -1,0 +1,19 @@
+{
+  "name": "xible-np-object",
+  "version": "0.1.0",
+  "description": "Nodepack for XIBLE to handle basic object (and JSON) values.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spectrumbroad/xible-np-object"
+  },
+  "bugs": {
+    "url": "https://github.com/spectrumbroad/xible-np-object/issues",
+    "email": "bugs@xible.io"
+  },
+  "keywords": [
+    "xible",
+    "object",
+    "nodepack"
+  ]
+}
