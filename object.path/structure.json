@@ -1,0 +1,15 @@
+{
+  "name": "object.path",
+  "type": "object",
+  "description": "Find elements within the specified input objects mathing the given JSON path.",
+  "inputs": {
+    "objects": {
+      "type": "object"
+    }
+  },
+  "outputs": {
+    "objects": {
+      "type": "object"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "xible-np-object",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Nodepack for XIBLE to handle basic object (and JSON) values.",
   "license": "MIT",
   "repository": {
@@ -15,5 +15,8 @@
     "xible",
     "object",
     "nodepack"
-  ]
+  ],
+  "dependencies": {
+    "jsonpath": "^1.1.1"
+  }
 }
