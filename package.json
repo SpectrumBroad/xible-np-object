@@ -16,6 +16,9 @@
     "object",
     "nodepack"
   ],
+  "scripts": {
+    "prepublishOnly": "npm shrinkwrap"
+  },
   "dependencies": {
     "jsonpath": "^1.1.1"
   }
